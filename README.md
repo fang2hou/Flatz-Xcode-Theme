@@ -1,7 +1,10 @@
 # Flatz
-A flat theme for Xcode designed by Zhou Fang.
+A flat theme for Xcode designed by houshuu.
 ### Screenshot
+Flatz.Dark:
 <img src="https://cdn.rawgit.com/houshuu/Flatz-Xcode-Theme/master/Res/Flatz-theme.jpeg" width="600px"/>
+
+There is no light version of Flatz yet.😓
 ### Installation
 1. Open your Terminal(or iTerm2 etc.)
 2. Enter Xcode theme folder.
